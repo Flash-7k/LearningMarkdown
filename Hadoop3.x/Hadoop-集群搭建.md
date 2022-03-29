@@ -1,4 +1,4 @@
-# Hadoop-入门
+# Hadoop-集群搭建
 
 ## 第一章 Hadoop概述
 
